@@ -1,6 +1,6 @@
-# Margin-Enhanced Average Precision Optimization and Horizontal Stripe Augmentation for Visible-Infrared Person Re-identification
+# Margin-Enhanced Average Precision Optimization for Visible-Infrared Person Re-identification
 ## Overview
-This repository contains Pytorch code for the implementation of the methods in the paper "Margin-Enhanced Average Precision Optimization and Horizontal Stripe Augmentation for Visible-Infrared Person Re-identification". The paper introduces MEAP and HSA techniques. 
+This repository contains Pytorch code for the implementation of the methods in the paper "Margin-Enhanced Average Precision Optimization for Visible-Infrared Person Re-identification". The paper introduces MEAP and HSA techniques. 
 
 ### ! Important Note: The code will be made publicly available upon the publication of the paper.
 
@@ -25,7 +25,7 @@ python train.py
 Please kindly cite
 ```
 @article{,
-  title={Margin-Enhanced Average Precision Optimization and Horizontal Stripe Augmentation for Visible-Infrared Person Re-identification},
+  title={Margin-Enhanced Average Precision Optimization for Visible-Infrared Person Re-identification},
   author={},
   journal={},
   year={2024},
